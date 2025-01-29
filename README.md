@@ -12,10 +12,6 @@ This repository contains a simple CRUD project built using Java Spring. The aim 
 
 1. Clone the repository:
 
-```bash
-git clone https://github.com/Fernanda-Kipper/live-crud-java-spring.git
-```
-
 2. Install dependencies with Maven
 
 ## Usage
